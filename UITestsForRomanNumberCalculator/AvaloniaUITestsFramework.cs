@@ -1,5 +1,6 @@
 ﻿using Avalonia;
 using System.Reflection;
+using UITestsForRomanNumberCalculator;
 using Xunit.Abstractions;
 using Xunit.Sdk;
 

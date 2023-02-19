@@ -1,11 +1,7 @@
 using ReactiveUI;
-using System;
+using RomanNumbersCalculator.Models;
 using System.Collections.Generic;
 using System.Reactive;
-using System.Text;
-
-using RomanNumbersCalculator.Models;
-using System.Security.Cryptography;
 
 namespace RomanNumbersCalculator.ViewModels
 {
